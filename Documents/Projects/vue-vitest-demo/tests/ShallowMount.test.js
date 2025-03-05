@@ -1,4 +1,3 @@
-// tests/components/ParentComponent.test.js
 import { shallowMount } from "@vue/test-utils";
 import { describe, it, expect } from "vitest";
 import ParentComponent from "../src/components/ShallowMount.vue";
