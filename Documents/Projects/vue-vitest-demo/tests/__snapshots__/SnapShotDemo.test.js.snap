@@ -1,0 +1,8 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`SnapShotDemo.vue Snapshot > matches the snapshot 1`] = `
+"<div class="hello">
+  <h1>Snapshot Test</h1>
+  <p>This is a snapshot testing examples.</p>
+</div>"
+`;
